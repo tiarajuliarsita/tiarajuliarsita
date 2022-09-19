@@ -1,7 +1,7 @@
 ### 👋 Hi, everyone
 
 <h1 align="center">
-Hi, I'm Tiara Juli Arsita🐬
+I'm Tiara Juli Arsita🐬
 </h1>
 
 <h5 align = "center">you can visit my instagram account: <br>
