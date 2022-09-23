@@ -1,6 +1,6 @@
 ### Hi, everyone 👋
 
-<h2>
+<h2 align="center">
 I'm Tiara Juli Arsita🐬
 </h1>
 
