@@ -1,4 +1,4 @@
-### Hi, everyone 👋
+### Hi
 
 <h1>
 I'm Tiara Juli Arsita🐬
