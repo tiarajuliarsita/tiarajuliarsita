@@ -1,3 +1,3 @@
-### Hi I'm Tiara Juli Arsita🐬
+### Hi I'm Tiara Juli Arsita
 
 
