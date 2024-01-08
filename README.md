@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm Tiara Juli Arsita! 👋</h2>
 
-<h4 align="center">
+<h3 align="center">
   I'm passionate about backend development. Familiar with Go, echo, gin framework
   <br/>Feel free to connect with me or share anything related to these technologies!👩‍💻 
-</h4>
+</h3>
 <br>
 <p>
   ✉️ how to reach me <a href="mailto:tiarajuliarsita@gmail.com">tiarajuliarsita@gmail.com</a>
@@ -12,8 +12,6 @@
 <h3>Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiarajuliarsita)
-
-<br>
 
 <h3>Tech Stack:</h3>
 <p>
@@ -30,9 +28,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
-<br>
-
 
 <h3>GitHub Stats:</h3>
 <p>
