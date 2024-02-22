@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Tiara Juli Arsita! 👋</h2>
 
 <h3 align="center">
-  I'm passionate about backend development. Familiar with Go, echo, gin framework
+  I'm passionate about backend development.
   <br/>Feel free to connect with me or share anything related to these technologies!👩‍💻 
 </h3>
 <br>
